@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 xiaoyaliu/alist:latest
+tailscale/tailscale:latest
