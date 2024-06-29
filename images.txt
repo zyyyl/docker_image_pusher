@@ -9,3 +9,4 @@ xiaoyaliu/alist:latest
 tailscale/tailscale:latest
 probezy/cpolar:latest
 zerotier/zerotier:latest
+jeessy/ddns-go:latest
