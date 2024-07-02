@@ -11,3 +11,5 @@ probezy/cpolar:latest
 zerotier/zerotier:latest
 jeessy/ddns-go:latest
 jc21/nginx-proxy-manager
+nextcloud:latest
+onlyoffice/documentserver:latest
