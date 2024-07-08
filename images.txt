@@ -14,3 +14,4 @@ jc21/nginx-proxy-manager:latest
 nextcloud:latest
 onlyoffice/documentserver:latest
 gdy666/lucky:latest
+johngong/calibre-web:latest
