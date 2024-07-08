@@ -15,3 +15,16 @@ nextcloud:latest
 onlyoffice/documentserver:latest
 gdy666/lucky:latest
 johngong/calibre-web:latest
+jc21/nginx-proxy-manager:latest
+codercom/code-server:latest
+xhofe/alist:latest
+watermark9/homarr:0.14.2
+xgheaven/homebox:latest
+nyanmisaka/jellyfin:latest
+jupyter/scipy-notebook:latest
+ilemonrain/html5-speedtest:alpine
+portainer/portainer-ee:latest
+portainer/portainer-ce:latest
+nevinee/qbittorrent:latest
+dzhuang/tinymediamanager:latest
+bytemark/webdav:latest
