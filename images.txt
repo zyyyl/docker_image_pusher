@@ -32,3 +32,4 @@
 #deluan/navidrome:latest
 
 ghcr.io/librespeed/speedtest:latest
+ghcr.io/koodo-reader/koodo-reader:master
